@@ -85,7 +85,7 @@ Encoding the message `welovecryptography` into an image:
 1. Original image:
    ![Original Image](input.jpg)
 2. Encoded image:
-   ![Encoded Image](encoded_image.png)
+   [Encoded Image](密碼學專題_第四組/code/encoded_image.png)
 3. Grayscale histogram comparison:
    [Grayscale Histogram](密碼學專題_第四組/code/Grayscale.jpg)
 
