@@ -83,11 +83,9 @@ pip install -r requirements.txt
 ## Example
 Encoding the message `welovecryptography` into an image:
 1. Original image:
-   ![Original Image](input.jpg)
+   [Original Image](密碼學專題_第四組/code/input.jpg)
 2. Encoded image:
    [Encoded Image](密碼學專題_第四組/code/encoded_image.png)
 3. Grayscale histogram comparison:
    [Grayscale Histogram](密碼學專題_第四組/code/Grayscale.jpg)
 
-## Author
-This project was developed to demonstrate an innovative approach to image-based steganography using Python. Contributions and suggestions are welcome!
