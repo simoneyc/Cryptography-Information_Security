@@ -1,6 +1,6 @@
 # Cryptography-Information_Security
 
-Here are my Homeworks & Project
+The files in this repository are my ***Homeworks & Project***.
 
 
 ## Project: Image-based Message Encoding and Decoding 
