@@ -87,7 +87,7 @@ Encoding the message `welovecryptography` into an image:
 2. Encoded image:
    ![Encoded Image](encoded_image.png)
 3. Grayscale histogram comparison:
-   ![Grayscale Histogram](Grayscale.jpg)
+   [Grayscale Histogram](密碼學專題_第四組/code/Grayscale.jpg)
 
 ## Author
 This project was developed to demonstrate an innovative approach to image-based steganography using Python. Contributions and suggestions are welcome!
