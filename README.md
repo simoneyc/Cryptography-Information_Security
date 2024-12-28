@@ -1,9 +1,10 @@
 # Cryptography-Information_Security
 
 Here are my Homeworks & Project
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF6cGR5NTc2Y3A5enczMmVuMmR2N2d1czluamVkOW56NTh2MDBibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EoB3yOTwSck4gw1qQj/giphy.gif
 
-## Project: Image-based Message Encoding and Decoding
+
+## Project: Image-based Message Encoding and Decoding 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF6cGR5NTc2Y3A5enczMmVuMmR2N2d1czluamVkOW56NTh2MDBibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EoB3yOTwSck4gw1qQj/giphy.gif" width="120"/>
 
 ## Overview
 This project provides a system for embedding and extracting secret messages in images using customized image processing and encoding techniques. It ensures minimal visual distortion in the original image while maintaining the fidelity of the embedded message.
